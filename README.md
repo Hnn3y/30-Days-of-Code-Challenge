@@ -3,5 +3,5 @@ This repository contains front-end projects for my 30days of code challenge buil
 roadmap.sh developer path and my personal projects path.
 
 # Projects include;
-Day 1: Single page CV.
+Day 1: Single page CV.<br>
 Day 2: Basic HTML Website.
